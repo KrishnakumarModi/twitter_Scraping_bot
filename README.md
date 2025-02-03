@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a web scraping application built in Python that extracts data from twitter. The primary goal is to get data from website and export it into csv file which contain bio, followers, following, location and website.
+This project is a web scraping application built in Python that extracts data from twitter. The primary goal is to get data from website and export it into csv file which contain bio, followers, following, location and website
 
 ## Features
 
