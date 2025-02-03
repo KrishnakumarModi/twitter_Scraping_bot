@@ -76,7 +76,7 @@ def scrape_User_profile(user_handle):
     print(df)
 
     # Save the data to a CSV file
-    #df.to_csv('twitter_Data.csv', index=False)
+    df.to_csv('twitter_Data.csv', index=False)
     
 # Main function
 if __name__ == "__main__":
